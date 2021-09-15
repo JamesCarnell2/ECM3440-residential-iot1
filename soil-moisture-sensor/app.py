@@ -8,7 +8,6 @@ import json
 from azure.iot.device import IoTHubDeviceClient, Message, MethodResponse
 
 connection_string = '<connection_string>'
-nonsense over here!!!¬!
 adc = ADC()
 relay = GroveRelay(5)
 
